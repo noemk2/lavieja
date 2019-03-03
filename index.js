@@ -6,8 +6,6 @@
 		score,
 		moves;
 
-
-
 	function init() {
 		var board = document.createElement('table');
     board.setAttribute("border", 1);

@@ -1,4 +1,4 @@
-table {
+/*table {
 	border-collapse:collapse;
 }
 
@@ -8,4 +8,19 @@ td {
 	font-size:80px;
 	color:#ffffff;
 	border-radius: 10px 10px 10px 10px;
+}*/
+
+.d1{background:LightSkyBlue;}
+  .d2{background:LightSalmon;}
+  .d3{background:PaleTurquoise;}
+  .d4{background:LightPink;}
+  .d5{background:PaleGreen;}
+  
+  .container {
+    font-size: 40px;
+    width: 100%;
+    background: LightGray;
+}
+ h1 {
+    display: inline;
 }
